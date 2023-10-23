@@ -1,5 +1,7 @@
 # NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs
 
+## Setup and running the model
+
 Create workspace directory inside codes-parameter:
 
 mkdir workspace
